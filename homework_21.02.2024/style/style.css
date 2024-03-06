@@ -1,0 +1,46 @@
+.shablon{
+    width: 450px;
+    height: auto;
+    border: 1px solid lightgray;
+    margin: 0 auto;
+     }
+
+.My_Blog{
+    font-size: medium;
+    font-weight: bold;
+    text-align: center;
+    
+}
+.block1{
+    width: 438px;
+    height: auto;
+    border: 1px solid palevioletred;
+    background-color: lightpink;
+    margin: 5px;
+}
+.piano{
+    width: 180px;
+}
+.block2{
+    width: 438px;
+    height: auto;
+    border: 1px solid blue;
+    background-color: lightskyblue;
+    margin: 5px;
+}
+.computer{
+    width: 180px;
+}
+.block3{
+    width: 438px;
+    height: auto;
+    border: 1px solid yellow;
+    background-color: white;
+    margin: 5px;
+}
+.friends{
+    width: 180px;
+}
+.last{
+    text-align: center;
+}
